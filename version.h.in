@@ -1,0 +1,16 @@
+//
+//  version.h
+//  E#
+//
+//  Created by Adrian Punga on 01/13/2012.
+//  Copyright (c) 2012 certSIGN. All rights reserved.
+//
+
+#ifndef E__version_h
+#define E__version_h
+
+#define ESHARP_VERSION_MAJOR @ESHARP_VERSION_MAJOR@
+#define ESHARP_VERSION_MINOR @ESHARP_VERSION_MINOR@
+#define ESHARP_VERSION_REV @ESHARP_VERSION_REV@
+
+#endif
